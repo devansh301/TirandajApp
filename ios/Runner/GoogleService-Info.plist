@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>431425472185-m55mo8f2hdtlpf90b8hp8o6jt3maqc70.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.431425472185-m55mo8f2hdtlpf90b8hp8o6jt3maqc70</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>431425472185-7leogfd3lbfvdmflq0o1b68k07pqh5n0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAJWM_FiquDffATuK13fBfKyRCDDRH9n7A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>431425472185</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.tirandajApp</string>
+	<key>PROJECT_ID</key>
+	<string>tirandaj-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tirandaj-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:431425472185:ios:d64cdf45c3b87be7bb7d68</string>
+</dict>
+</plist>

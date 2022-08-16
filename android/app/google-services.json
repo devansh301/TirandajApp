@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "431425472185",
+    "project_id": "tirandaj-app",
+    "storage_bucket": "tirandaj-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431425472185:android:f627e7394dd2c154bb7d68",
+        "android_client_info": {
+          "package_name": "com.devansh.tirandaj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431425472185-g2bdks4shmdeqsvof23nih7scavhtmdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devansh.tirandaj",
+            "certificate_hash": "a91011cdb5fe78d34db260f4d898bc5da5e74e54"
+          }
+        },
+        {
+          "client_id": "431425472185-9qtdt9dcdggbne3hdoefom3fk13d3om0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPaazcDrFq3IAVbL0reHPiRG006X5TY44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431425472185-9qtdt9dcdggbne3hdoefom3fk13d3om0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431425472185-m55mo8f2hdtlpf90b8hp8o6jt3maqc70.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tirandajApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431425472185:android:1795e38ff45242c6bb7d68",
+        "android_client_info": {
+          "package_name": "com.example.tirandaj_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431425472185-7leogfd3lbfvdmflq0o1b68k07pqh5n0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tirandaj_app",
+            "certificate_hash": "a91011cdb5fe78d34db260f4d898bc5da5e74e54"
+          }
+        },
+        {
+          "client_id": "431425472185-9qtdt9dcdggbne3hdoefom3fk13d3om0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPaazcDrFq3IAVbL0reHPiRG006X5TY44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431425472185-9qtdt9dcdggbne3hdoefom3fk13d3om0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431425472185-m55mo8f2hdtlpf90b8hp8o6jt3maqc70.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tirandajApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
