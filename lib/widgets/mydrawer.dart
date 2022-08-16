@@ -35,7 +35,7 @@ class _MyDrawerState extends State<MyDrawer> {
 
   @override
   Widget build(BuildContext context) {
-    var title_list = ["About Us","Privacy Policy","Contact Us","Rate Us"];
+    var title_list = ["About Us","Privacy Policy","Contact Us",];
     return Drawer(
       child: Container(
         color: Colors.white,
@@ -66,7 +66,7 @@ class _MyDrawerState extends State<MyDrawer> {
             Expanded(
                 child:
                 ListView.builder(
-                    itemCount: 4,
+                    itemCount: 3,
                     itemBuilder: (context, i){
                       return ListTile(
                         title: Center(
@@ -92,7 +92,7 @@ class _MyDrawerState extends State<MyDrawer> {
                       );
                     }),
             ),
-            const Expanded(child: const SizedBox(height: 10,))
+            const Expanded(child: SizedBox(height: 10,))
           ],
         ),
       ),

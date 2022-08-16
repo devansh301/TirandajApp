@@ -43,7 +43,7 @@ class PostDetail extends StatelessWidget {
           // ),
           FittedBox(
             fit: BoxFit.fitHeight,
-            child: Image.asset("assets/sangamdairy.png"),
+            child: Image.asset("assets/images/milestoneacademy.png"),
           ),
           Center(
             child: Container(
@@ -54,10 +54,10 @@ class PostDetail extends StatelessWidget {
               ),
             ),
           ),
-          FittedBox(
-            fit: BoxFit.fitHeight,
-            child: Image.asset("assets/sangamdairy.png"),
-          ),
+          // FittedBox(
+          //   fit: BoxFit.fitHeight,
+          //   child: Image.asset("assets/sangamdairy.png"),
+          // ),
            const SizedBox(height: 5,),
           Image.network( str),
           const SizedBox(height: 5,),
@@ -73,6 +73,10 @@ class PostDetail extends StatelessWidget {
             child: HtmlWidget(
                 htmlData,textStyle: GoogleFonts.gotu()
             ),
+          ),
+          FittedBox(
+            fit: BoxFit.fitHeight,
+            child: Image.asset("assets/sangamdairy.png"),
           ),
           Container(
             padding: const EdgeInsets.only(bottom: 4,left: 4),
