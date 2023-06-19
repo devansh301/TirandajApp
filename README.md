@@ -67,7 +67,7 @@ Note: Make sure you have a connected device or emulator running before executing
 
 ## Download
 
-You can download the Tirandaj Mobile App from the Google Play Store by following this [link](https://play.google.com/store/apps/details?id=com.yourdomain.tirandaj).
+You can download the Tirandaj Mobile App from the Google Play Store by following this [link](https://play.google.com/store/apps/details?id=com.devansh.tirandaj&pli=1).
 
 ## Contributions
 
